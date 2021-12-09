@@ -8,6 +8,7 @@ Analysis-and-Visualization
 # Objective
 ### Importing the dataset
 ### Vizualisation
+### filling the null values
 ### Droping the not relevent columns
 ### Analysis the data
 # Plots Used
